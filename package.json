@@ -1,0 +1,13 @@
+{
+  "name": "a simple http server with express",
+  "version": "0.0.0",
+  "description": "嗯,一个http服务器程序",
+  "main": "app.js",
+  "author": {
+    "name": "blueyes",
+    "email": "blueyes_lzs@sina.com"
+  },
+  "dependencies": {
+    "express":"3.4.4"
+  }
+}
